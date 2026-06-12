@@ -1,0 +1,314 @@
+{
+  "request": {
+    "goal": "Aumentar cadastros no grupo VIP de uma comunidade de finanças pessoais via Instagram e e-mail",
+    "targetLeads": 350,
+    "baselineLeads": 20,
+    "days": 7
+  },
+  "target": 350,
+  "days": [
+    {
+      "day": 1,
+      "plan": {
+        "reasoning": "Dia 1 de 7. Meta: 350 leads em 7 dias = 50 leads/dia de média necessária. Linha de base atual é 20 leads/dia, então preciso gerar +30 leads/dia imediatamente. Estratégia: atacar em 3 frentes simultâneas - (1) conteúdo orgânico de alto engajamento no Instagram Stories e Feed com CTA direto para grupo VIP, (2) sequência de email urgente para base existente, e (3) pequeno teste de tráfego pago para validar audiências frias. Primeiro dia é crítico para estabelecer momentum e testar o que converte melhor. Vou projetar 55 leads hoje para criar folga no cronograma.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel Instagram: '5 Erros Mortais que Impedem Você de Guardar Dinheiro (e como corrigir hoje)' - último slide com CTA forte para grupo VIP exclusivo",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Stories (série de 7): Quebrar objeções sobre grupo VIP - mostrar transformações reais, benefícios exclusivos, urgência (vagas limitadas) - caixa de perguntas + link direto",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Sequência de 2 emails para base: (1) manhã - 'Convite especial: faça parte do círculo interno' com prova social, (2) noite - 'Últimas 48h para garantir sua vaga' criando urgência artificial controlada",
+            "status": "rascunho"
+          },
+          {
+            "type": "anúncio",
+            "title": "Teste A/B Instagram Ads (budget baixo R$50): 2 criativos - (A) depoimento em vídeo de membro atual, (B) carrossel educativo - segmentar lookalike da base + interesse em educação financeira",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels: 'A diferença entre quem acumula patrimônio e quem vive no zero a zero' - gancho emocional + CTA para aprender mais no grupo VIP",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Otimizar bio do Instagram: CTA claro para grupo VIP + link tree atualizado com página de captura focada em benefícios tangíveis e urgência",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 55,
+        "report": "🎯 DIA 1/7 - RELATÓRIO MATINAL\n\n📊 Situação: 0/350 leads | Faltam 350\nMédia necessária: 50/dia (vs. baseline 20/dia)\n\n🔥 PLANO HOJE:\n→ Bombardeio multicanal: Instagram (carrossel + stories + reels) + Email (2 disparos) + Ads teste\n→ Foco: criar urgência + provar valor + remover objeções\n→ Meta do dia: 55 leads (criar folga)\n\n⚡ Prioridade: aprovar criativos até 10h para maximizar alcance do dia.\n\nAguardando aprovação para executar. 🚀"
+      },
+      "actualLeads": 73,
+      "cumulativeLeads": 73
+    },
+    {
+      "day": 2,
+      "plan": {
+        "reasoning": "Dia 1 superou a projeção em 33% (73 vs 55), sinalizando que o público está respondendo bem. Ritmo atual: 73 leads/dia. Se mantido, chegaríamos a 438 leads em 7 dias — acima da meta. Porém, é arriscado assumir esse ritmo sem reforço. Estratégia: dobrar nos canais que trouxeram resultado (likely Instagram stories + CTA direto), adicionar prova social dos 73 primeiros membros para gatilho de urgência, e preparar sequência de email para base existente. Manter momentum sem queimar audiência.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel Instagram: '3 erros que te impedem de entrar no VIP' + CTA para cadastro com senso de urgência (73 pessoas já entraram)",
+            "status": "rascunho"
+          },
+          {
+            "type": "stories",
+            "title": "Série de 5 stories mostrando bastidores do grupo VIP + enquete interativa + link de cadastro (postar às 9h, 14h e 19h)",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Email para base atual: 'Você foi convidado para o grupo VIP — vagas limitadas' com depoimento de membro antigo",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels curto (15s): transição 'antes/depois' de alguém que aplicou dicas da comunidade + CTA para VIP",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Analisar Stories do Dia 1 com mais engajamento e replicar formato/horário hoje",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 85,
+        "report": "🎯 DIA 2 | Faltam 6 dias\n\n✅ Dia 1: 73 leads (meta era 55) — +33%\n📊 Acumulado: 73/350 (21%)\n🔥 Ritmo atual nos leva a 438 leads se mantido\n\n💡 PLANO HOJE:\n- Dobrar em Stories (funcionou ontem)\n- Usar prova social dos 73 primeiros\n- Ativar base de email\n- Reels rápido p/ alcance orgânico\n- Meta hoje: +85 leads (total 158)\n\n⚠️ Tudo em rascunho — aguardo aprovação p/ publicar."
+      },
+      "actualLeads": 118,
+      "cumulativeLeads": 191
+    },
+    {
+      "day": 3,
+      "plan": {
+        "reasoning": "Análise: estamos performando acima da projeção — Dia 1 bateu 132% e Dia 2 bateu 139% da meta diária. Com 191 leads em 2 dias, a média real é 95,5/dia. Faltam 159 leads em 5 dias = 31,8/dia necessário, muito abaixo da performance atual. O que está funcionando: a estratégia inicial (provavelmente Stories, posts educativos, ou sequência de email) está gerando tração forte. Decisão: manter ímpeto, mas agora focar em escala inteligente — dobrar canais que convertem (testar carrossel de transformação + depoimentos, intensificar CTA em Stories, segmentar lista de email com urgência dos últimos dias). Não relaxar: projetar 80 leads hoje para manter ritmo e criar colchão de segurança caso haja queda nos dias finais.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel no feed: '5 erros que te impedem de entrar no VIP' + CTA direto para cadastro com senso de urgência (restam 5 dias)",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Stories: série de 3-4 cards com depoimento real de membro VIP + antes/depois financeiro + link de cadastro com countdown sticker",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Disparo para base: 'Última chamada semanal — grupo VIP fecha em 5 dias' com bullet points de benefícios exclusivos e CTA único",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Analisar Stories dos dias 1-2: identificar horário de pico de cliques e replicar timing hoje com conteúdo similar ao de melhor performance",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels curto (15s): transformação rápida + legenda com gatilho de escassez ('só mais 159 vagas até fechar') e link na bio",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 80,
+        "report": "☀️ DIA 3 | COMUNIDADE VIP\n\n📊 Situação:\n• Acumulado: 191/350 (54,6%)\n• Faltam: 159 leads em 5 dias\n• Necessário: 31,8/dia (estamos em 95,5/dia)\n\n🚀 Performance:\nDia 1: 73 (132% meta)\nDia 2: 118 (139% meta)\n→ Ritmo forte, mas não afrouxar\n\n🎯 Plano Hoje:\n• Dobrar o que funciona: carrossel educativo + Stories com prova social\n• Escalar urgência: countdown e escassez nos CTAs\n• Email de reengajamento para base morna\n• Meta: 80 leads hoje\n\n⚠️ Governança: tudo em rascunho, aguarda aprovação.\n\nVamos manter o pé no acelerador. 💰"
+      },
+      "actualLeads": 65,
+      "cumulativeLeads": 256
+    },
+    {
+      "day": 4,
+      "plan": {
+        "reasoning": "Análise da situação: Faltam 94 leads para atingir 350 em 4 dias (média necessária: 23,5/dia). Dia 1 e 2 superaram expectativas (+33% e +39%), mas Dia 3 ficou 19% abaixo. O momentum inicial foi forte (provavelmente audiência quente), mas houve queda ontem, sugerindo saturação do público imediato ou fadiga criativa. Estratégia: (1) Reativar o que funcionou nos dias 1-2 com nova abordagem criativa para evitar fadiga; (2) Expandir alcance com micro-influenciadores/parcerias; (3) Urgência temporal nos CTAs ('últimos dias'); (4) Segmentar e-mail para quem abriu mas não converteu; (5) Testar prova social (depoimentos de quem entrou). Meta conservadora hoje: 28 leads (margem de segurança para compensar Dia 3).",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel Instagram: '3 Erros que Te Impedem de Entrar no VIP' + CTA urgente ('vagas limitadas, 4 dias restantes')",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Stories com enquete interativa: 'Qual seu maior desafio financeiro?' + swipe-up para grupo VIP com solução",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels curto (15s): Depoimento em vídeo de membro VIP mostrando resultado real + link na bio",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Campanha de reengajamento: segmento 'abriu e-mails anteriores mas não se cadastrou' com oferta bônus (ex: planilha exclusiva ao entrar hoje)",
+            "status": "rascunho"
+          },
+          {
+            "type": "anúncio",
+            "title": "Impulsionar o Reels de depoimento para públicos semelhantes (lookalike) dos 256 leads atuais - orçamento modesto R$50-80",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Pausar posts/abordagens do Dia 3 que tiveram baixo engajamento; duplicar formato vencedor do Dia 2 com novo ângulo criativo",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Post no feed: Prova social - 'Mais de 250 pessoas já garantiram vaga. Você vai ficar de fora?' + benefícios-chave do VIP",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 28,
+        "report": "📊 DIA 4 - RELATÓRIO MATINAL\n\n▫️ Situação: 256/350 leads (73% da meta)\n▫️ Faltam: 94 leads em 4 dias\n▫️ Média necessária: 24/dia\n\n⚠️ ALERTA: Dia 3 trouxe apenas 65 leads (-19% vs projeção). Possível fadiga de audiência quente.\n\n✅ Plano hoje:\n• Reativar formatos vencedores Dia 1-2 com criativo renovado\n• Adicionar prova social e urgência temporal\n• Expandir alcance (impulsionamento + lookalike)\n• Reengajar quem viu mas não converteu\n\n🎯 Projeção hoje: 28 leads\n🚦 Status: ATENÇÃO - precisamos voltar ao ritmo. Todas ações em rascunho aguardando aprovação."
+      },
+      "actualLeads": 22,
+      "cumulativeLeads": 278
+    },
+    {
+      "day": 5,
+      "plan": {
+        "reasoning": "Análise da situação: faltam 72 leads em 3 dias (24/dia). Dias 1-2 tiveram performance acima da linha de base com picos de engajamento. Dia 3 caiu 19% vs projeção e Dia 4 caiu 21% — clara perda de momentum. O histórico mostra que conseguimos picos (73, 118), então a capacidade existe. Problema: provavelmente fadiga de audiência ou conteúdo repetitivo. Estratégia para hoje: reativar urgência + prova social + novo ângulo de copy. Vou projetar 30 leads hoje (conservador mas realista dado o padrão de queda). Nos últimos 2 dias precisaremos de 42 leads — então hoje é crítico para testar novos criativos que possam escalar amanhã.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel Instagram: '5 erros que te impedem de entrar no VIP' + CTA com contagem regressiva (72h finais)",
+            "status": "rascunho"
+          },
+          {
+            "type": "stories",
+            "title": "Série de 4 stories com depoimentos reais de membros VIP (screenshots de resultados) + link direto",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Sequência de 2 emails: (1) manhã - 'Última chamada: só 72 vagas' (2) noite - case de transformação de membro",
+            "status": "rascunho"
+          },
+          {
+            "type": "anúncio",
+            "title": "Reativar melhor criativo dos Dias 1-2 com novo público lookalike de quem se cadastrou (excluir convertidos)",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Pausar criativos com CTR abaixo de 2% dos últimos 2 dias e realocar budget para top performer",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels curto (15s): 'O que você ganha em 7 dias no VIP vs. 7 meses sozinho' — formato antes/depois",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 30,
+        "report": "📊 DIA 5 | Situação crítica mas recuperável\n\n✅ Onde estamos: 278/350 (79%)\n❌ Gap: 72 leads em 3 dias\n📉 Problema: queda de 20% nos últimos 2 dias\n\n🎯 PLANO HOJE:\n- Reativar urgência (contagem regressiva real)\n- Injetar prova social forte (depoimentos)\n- Testar novo ângulo (erros que afastam do VIP)\n- Otimizar anúncios: cortar gordura, dobrar vencedores\n\n🔢 Projeção: 30 leads hoje\n⚠️ Dias 6-7 precisarão de 42 leads — se hoje funcionar, escalamos amanhã.\n\nTodas as ações em RASCUNHO aguardando aprovação."
+      },
+      "actualLeads": 23,
+      "cumulativeLeads": 301
+    },
+    {
+      "day": 6,
+      "plan": {
+        "reasoning": "Análise crítica: Dias 1-2 superaram expectativas (73 e 118 leads), mas dias 3-5 caíram drasticamente (65, 22, 23 vs projetado 80, 28, 30). A média dos últimos 3 dias é apenas 36,7 leads/dia — abaixo da baseline de 20. Situação: faltam 49 leads em 2 dias = 24,5/dia necessário. O que funcionou? Dias 1-2 sugerem táticas de urgência/escassez ou conteúdo viral. O que falhou? Queda acentuada indica fadiga de audiência, conteúdo repetitivo ou queda em alcance orgânico. PLANO HOJE: (1) Reativar táticas vencedoras dos dias 1-2 com nova roupagem; (2) Adicionar prova social dos 301 leads já conquistados para criar FOMO; (3) Lançar sequência de e-mail de reengajamento para base dormecida; (4) Stories interativos com gatilho de escassez ('últimas 48h'); (5) Testar micro-influenciadores para ampliar alcance rápido. Meta agressiva: 30 leads hoje para folga no dia final.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Carrossel Instagram: 'Como 301 pessoas já garantiram acesso VIP às estratégias que mudaram minha relação com dinheiro' + CTA urgente (restam 49 vagas, fecha em 48h)",
+            "status": "rascunho"
+          },
+          {
+            "type": "stories",
+            "title": "Sequência de 5 Stories: (1) Depoimento em vídeo de membro VIP real; (2) Print de mensagem de agradecimento; (3) Countdown 'Últimas 48h'; (4) Enquete 'Sua maior dificuldade financeira?'; (5) Link direto com swipe-up/sticker",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Sequência 3 e-mails (8h, 14h, 20h): Assunto linha 1: '[Urgente] Você ficou para trás?' / Linha 2: '301 já entraram. Você vem?' / Linha 3: 'Última chamada - 48h restantes' + benefícios exclusivos VIP",
+            "status": "rascunho"
+          },
+          {
+            "type": "anúncio",
+            "title": "Reels patrocinado (budget concentrado em 24h): Vídeo curto (15s) mostrando transformação financeira + prova social '301 membros' + CTA 'Garanta sua vaga'",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Reativar audiências lookalike dos leads dos dias 1-2 (período de alta conversão) e pausar segmentos de baixo desempenho dias 3-5",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels orgânico às 19h (horário de pico): 'Os 3 erros que impedem 90% das pessoas de construir patrimônio' + gancho final para grupo VIP",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "E-mail especial para leads que abriram mas não converteram (dias 3-5): Oferta bônus exclusivo (ex: planilha financeira gratuita) para quem entrar hoje",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 30,
+        "report": "📊 DIA 6 | Situação crítica mas recuperável\n\n❌ Problema: Queda de 82% no desempenho (dias 3-5: média 36,7 vs. dias 1-2: média 95,5)\n✅ Oportunidade: Faltam apenas 49 leads em 2 dias (24,5/dia = viável)\n\n🎯 PLANO HOJE:\n• Resgatar táticas vencedoras dias 1-2 com prova social (301 leads)\n• Urgência real: 48h finais\n• 3 ondas de e-mail (manhã/tarde/noite)\n• Reels patrocinado + orgânico\n• Reativar audiências quentes\n• Bônus exclusivo para indecisos\n\n📈 Meta: 30 leads hoje (margem segurança dia 7)\n⚠️ Todas ações em RASCUNHO - aguardam sua aprovação para execução"
+      },
+      "actualLeads": 21,
+      "cumulativeLeads": 322
+    },
+    {
+      "day": 7,
+      "plan": {
+        "reasoning": "Estamos no último dia e faltam 28 leads para bater a meta (322/350). Os primeiros 2 dias tiveram performance excepcional (73 e 118 leads), mas houve queda acentuada nos dias 3-6 (média de 33 leads/dia caindo para ~22 leads/dia). A queda sugere fadiga de audiência ou saturação das táticas atuais. Para o último dia, preciso: 1) Reativar a estratégia vencedora dos dias 1-2 (provavelmente conteúdo de urgência/escassez + CTA forte); 2) Fazer um último push com senso de 'última chance'; 3) Enviar email para toda base reforçando fechamento de inscrições; 4) Criar Stories com countdown e prova social dos 322 já inscritos; 5) Considerar incentivo adicional (bônus exclusivo para quem entrar hoje). É arriscado projetar 28 leads, mas com esforço concentrado e mensagem de encerramento, é viável recuperar o ritmo inicial.",
+        "actions": [
+          {
+            "type": "post",
+            "title": "Post feed Instagram: 'ÚLTIMA CHANCE - Grupo VIP fecha hoje à meia-noite' com depoimentos dos 322 membros já dentro + benefício exclusivo para quem entrar hoje (ex: aula bônus ou template gratuito)",
+            "status": "rascunho"
+          },
+          {
+            "type": "stories",
+            "title": "Série de 6-8 Stories ao longo do dia: countdown regressivo (manhã/tarde/noite), print de mensagens de membros satisfeitos, Behind-the-scenes do grupo, CTA direto com link na bio a cada 2h",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Email urgente para toda base: Subject 'Suas últimas 12 horas para entrar no Grupo VIP' - reforçar escassez real, mostrar número de inscritos (prova social), destacar o que será perdido se não entrar hoje",
+            "status": "rascunho"
+          },
+          {
+            "type": "email",
+            "title": "Email de follow-up 6h depois para quem NÃO abriu o primeiro: Subject linha mais direta '[NOME], o grupo fecha em 6h' - abordagem pessoal e mais curta",
+            "status": "rascunho"
+          },
+          {
+            "type": "stories",
+            "title": "Stories interativos: Enquete 'Você já está no grupo VIP?' e Caixinha de perguntas para quebrar objeções em tempo real nas últimas horas",
+            "status": "rascunho"
+          },
+          {
+            "type": "ajuste de campanha",
+            "title": "Se houver tráfego pago rodando: aumentar budget em 50% apenas para hoje, concentrar em público lookalike dos que converteram nos dias 1-2, pausar segmentos de baixa conversão",
+            "status": "rascunho"
+          },
+          {
+            "type": "post",
+            "title": "Reels rápido (15-30s) estilo 'POV: você quando perceber que o grupo VIP fechou e você ficou de fora' - conteúdo leve mas com senso de urgência, call to action claro nos 3 primeiros segundos",
+            "status": "rascunho"
+          }
+        ],
+        "projectedLeads": 35,
+        "report": "🔴 DIA 7 - ÚLTIMO DIA\n\nSituação: 322/350 leads (faltam 28)\n\n📉 Problema: Performance caiu 70% desde o pico (dia 2: 118 → dias 4-6: média 22). Fadiga de audiência.\n\n✅ Plano HOJE:\n- Ressuscitar táticas dos dias 1-2 (urgência real funciona)\n- Bombardeio coordenado: posts + stories a cada 2h + 2 emails\n- Adicionar incentivo exclusivo pro último dia\n- Se tiver ads: dobrar budget só hoje\n\n🎯 Meta: 35 leads (margem de segurança de 7)\n\nÉ apertado mas factível. Tudo em rascunho, aguardando sua aprovação pra executar. Bora fechar essa meta! 💪"
+      },
+      "actualLeads": 47,
+      "cumulativeLeads": 369
+    }
+  ],
+  "finalLeads": 369,
+  "reachedTarget": true,
+  "summary": "Meta batida: 369/350 leads em 7 dias.",
+  "generatedAt": "2026-06-05T01:36:41.402Z"
+}

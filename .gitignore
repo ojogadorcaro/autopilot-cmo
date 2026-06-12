@@ -1,0 +1,29 @@
+# build / sujeira
+node_modules/
+.next/
+dist/
+*.log
+.dev-server*.log
+*.tsbuildinfo
+.DS_Store
+
+# este projeto roda SÓ como skill no Claude Code.
+# app/painel + motor TS ficam no disco, fora do repo público.
+app/
+src/
+scripts/
+package.json
+package-lock.json
+tsconfig.json
+next.config.mjs
+next-env.d.ts
+
+# segredos
+.env
+.env.local
+.env.local.example
+
+# screenshot do painel antigo (não vai pro repo skill-only)
+docs/
+
+# (data/output/cmo-leads.json fica NO repo como exemplo real)
